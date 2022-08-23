@@ -5,7 +5,6 @@ import pyperclip  # this pyperclip is inter platform clipboard copy and paste mo
 
 password = ""
 
-
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 
